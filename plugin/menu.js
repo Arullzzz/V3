@@ -21,7 +21,7 @@ const defaultMenu = {
 *│*
 *│*⦁ Uptime: *%uptime (%muptime)*
 *│*⦁ Database: %rtotalreg dari %totalreg
-*│*⦁ GitHub: https://github.com/AlyaaXd
+*│*⦁ GitHub: https://github.com/Arullzzz
 *└─────────────➤*
 %readmore`.trimStart(),
   header: '*┌─〔 %category 〕*',
@@ -364,7 +364,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             }, {
                                 "rows": [{
                                     "title": "Owner bot",
-                                    "description": "pemilik R-Txzy",
+                                    "description": "pemilik ArullBotz",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "Donasi",
